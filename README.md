@@ -36,23 +36,13 @@ Dette er en **sikker, lokal simulation** – ideel til **undervisning, demonstra
 
 
 
-
+![setup](IMG/setup.jpg)
 ![Login1](IMG/CP1.png)
 ![Login2](IMG/CP2.png)
 ![Login3](IMG/CP3.png)
 ![Login4](IMG/CP4.png)
 ![dashboard](IMG/Dash.png)
 
-| 🔍 Hvad | 📷 Billed-idé |
-|--------|----------------|
-| 1. Login-side | Screenshot af fake Google login (step 1 og 2) |
-| 2. Admin log | Screenshot af log-tabel med credentials |
-| 3. ESP8266 setup | Foto af din ESP8266 koblet til strøm |
-| 4. Terminal | Billede af seriemonitor der viser aktivitet |
-| 5. Netværkssøgning | Screenshot fra mobilen hvor SSID vises |
-| 6. ASCII terminal | Screenshot af `/log` side med animation og grøn terminal |
-
-👉 Brug evt. GitHub’s drag-and-drop funktion til at uploade dem eller placér dem i en `docs/` mappe og link med relativ sti.
 
 ---
 
@@ -67,14 +57,14 @@ Dette er en **sikker, lokal simulation** – ideel til **undervisning, demonstra
 - Arduino IDE + ESP8266 Board Manager
 - Biblioteker: `ESP8266WiFi.h`, `ESP8266WebServer.h`, `DNSServer.h`
 
-### Installation
+### Installation - hvis jeg vælger at offentliggøre koden.
 1. Clone dette repo
 2. Åbn `.ino` filen i Arduino IDE
 3. Upload til din ESP8266
 4. Tilslut til det nye WiFi: `CPH - FREE WiFi`
 5. Vent på Captive Portal popper op
 6. Skriv en email, fx`EMAIL@SUPEREMAIL.com`
-7. Skriv et password **VIGTIGT!! - skriv aldlrig dit rigtige password**
+7. Skriv et password **VIGTIGT!! - skriv aldrig dit rigtige password eller mail!**
 8. Tjek din log (192.168.4.1/log?pass=123)
 
 ---
