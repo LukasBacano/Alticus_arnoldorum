@@ -32,9 +32,12 @@ Dette er en **sikker, lokal simulation** – ideel til **undervisning, demonstra
 
 ---
 
-## 📸 Forslag til billeder i README
+## 📸 billeder
 
 Du kan bruge følgende billeder eller screenshots til at gøre dit README mere visuelt og engagerende:
+
+
+![Login1](IMG/CP1)
 
 | 🔍 Hvad | 📷 Billed-idé |
 |--------|----------------|
