@@ -3,7 +3,6 @@
 > Et sideprojekt i cybersikkerhed, der simulerer et realistisk Captive portal phishing-angreb – uden permanent datalagring.
 
 ![Platform](https://img.shields.io/badge/platform-ESP8266-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
 ![Ethical](https://img.shields.io/badge/purpose-education-yellow)
 
 ---
