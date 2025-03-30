@@ -40,7 +40,7 @@ Dette er en **sikker, lokal simulation** – ideel til **undervisning, demonstra
 ![Login1](IMG/CP1.png)
 ![Login2](IMG/CP2.png)
 ![Login3](IMG/CP3.png)
-![Login4](IMG/CP14.png)
+![Login4](IMG/CP4.png)
 ![dashboard](IMG/Dash.png)
 
 | 🔍 Hvad | 📷 Billed-idé |
