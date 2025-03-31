@@ -27,8 +27,8 @@ Dette er en **sikker, lokal simulation** – ideel til **undervisning, demonstra
 - ⏱ Live-log af credentials (brugernavn + adgangskode) vises på `/log`
 - 🧠 Admin-side med adgangskodebeskyttelse (`?pass=123`)
 - ⚠️ Logs slettes ved genstart – intet gemmes
-- 🎨 Fuldt stylet frontend med mørk/lys tema + ASCII animation
-- 💻 HTML/CSS medfølger – let at tilpasse
+- 🎨 Fuldt stylet frontend med system defineret mørk/lys tema
+- 💻 HTML/CSS medfølger IKKE - Dette er en rapport, og ikke en intro til koden.
 
 ---
 
@@ -57,21 +57,11 @@ Dette er en **sikker, lokal simulation** – ideel til **undervisning, demonstra
 - Arduino IDE + ESP8266 Board Manager
 - Biblioteker: `ESP8266WiFi.h`, `ESP8266WebServer.h`, `DNSServer.h`
 
-### Installation - hvis jeg vælger at offentliggøre koden.
-1. Clone dette repo
-2. Åbn `.ino` filen i Arduino IDE
-3. Upload til din ESP8266
-4. Tilslut til det nye WiFi: `CPH - FREE WiFi`
-5. Vent på Captive Portal popper op
-6. Skriv en email, fx`EMAIL@SUPEREMAIL.com`
-7. Skriv et password **VIGTIGT!! - skriv aldrig dit rigtige password eller mail!**
-8. Tjek din log (192.168.4.1/log?pass=123)
-
 ---
 
 ## ⚠️ Etiske overvejelser
 
-Dette projekt er **udelukkende til uddannelsesbrug**. Brug det ansvarligt og **aldrig på offentlige steder** eller uden samtykke.
+Dette projekt er **udelukkende til uddannelsesbrug**. Brug informationen ansvarligt og **aldrig på offentlige steder** eller uden samtykke.
 
 **Formålet er at lære:**
 - Hvordan WiFi-sikkerhed kan udnyttes
