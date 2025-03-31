@@ -80,6 +80,6 @@ Dette projekt er **udelukkende til uddannelsesbrug**. Brug det ansvarligt og **a
 
 ---
 
-## 👀 Demo
+## 👀 Realistisk scenarie af deployment
 
-> (Indsæt GIF'er eller billeder her)
+![nørd](IMG/captiveport.jpg)
